@@ -6,10 +6,6 @@
 
 ###
 
-<h2 align="left">💻 :Sobre Mim</h2>
-
-###
-
 <div align="left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="44" alt="html5 logo"  />
   <img width="35" />
@@ -21,6 +17,10 @@
   <img width="35" />
   <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="44" alt="github logo"  />
 </div>
+
+###
+
+<h2 align="left">💻 :Sobre Mim</h2>
 
 ###
 
