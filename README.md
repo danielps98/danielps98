@@ -2,7 +2,11 @@
 
 ###
 
-<h1 align="left">💻 Ferramentas e Tecnologias</h1>
+<h2 align="left">💻 Ferramentas e Tecnologias</h2>
+
+###
+
+<h2 align="left">💻 :Sobre Mim</h2>
 
 ###
 
@@ -20,15 +24,11 @@
 
 ###
 
-<h1 align="left">💻 :Sobre Mim</h1>
-
-###
-
 <h3 align="left">Cursando desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript e Bootstrap. Busco uma oportunidade como desenvolvedor júnior para aplicar minhas habilidades e contribuir para projetos dinâmicos.</h3>
 
 ###
 
-<h1 align="left">🎓 Github Stats</h1>
+<h2 align="left">🎓 Github Stats</h2>
 
 ###
 
@@ -40,7 +40,8 @@
 
 ###
 
-  <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
+<img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
+
 ###
 
 <h2 align="left">Entre em Contato:</h2>
