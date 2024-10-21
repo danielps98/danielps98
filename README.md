@@ -2,27 +2,33 @@
 
 ###
 
-<h3 align="left">💻 Ferramentas e Tecnologias</h3>
+<h1 align="left">💻 Ferramentas e Tecnologias</h1>
 
 ###
 
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="30" alt="bootstrap logo"  />
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="44" alt="html5 logo"  />
+  <img width="35" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="44" alt="css3 logo"  />
+  <img width="35" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="44" alt="javascript logo"  />
+  <img width="35" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="44" alt="bootstrap logo"  />
+  <img width="35" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="44" alt="github logo"  />
 </div>
 
 ###
 
-<h3 align="left">Meu nome é Daniel Silva e estou estudando desenvolvimento front-end. Já adquiri habilidades em HTML, CSS, JavaScript e Bootstrap, e continuo a aprofundar meus conhecimentos na área. Estou em busca do meu primeiro emprego e já desenvolvi sites responsivos, prontos para mostrar minhas habilidades em uma nova oportunidade. Estou comprometido em me tornar um desenvolvedor qualificado e enfrentar novos desafios no mercado.</h3>
+<h1 align="left">💻 :Sobre Mim</h1>
 
 ###
 
-<h1 align="left">status</h1>
+<h3 align="left">Cursando desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript e Bootstrap. Busco uma oportunidade como desenvolvedor júnior para aplicar minhas habilidades e contribuir para projetos dinâmicos.</h3>
+
+###
+
+<h1 align="left">🎓 Github Stats</h1>
 
 ###
 
@@ -34,24 +40,25 @@
 
 ###
 
+  <img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
+###
 
-
-<h2 align="left">social media</h2>
+<h2 align="left">Entre em Contato:</h2>
 
 ###
 
 <div align="left">
   <a href="https://www.linkedin.com/in/daniel-pds-285181211/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="56" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="56" alt="instagram logo"  />
   </a>
   <a href="http://wa.me/+5511980311529" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="52" height="40" alt="whatsapp logo"  />
+    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="56" alt="whatsapp logo"  />
   </a>
   <a href="https://www.facebook.com/profile.php?id=100006773463851" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="56" alt="facebook logo"  />
   </a>
 </div>
 
