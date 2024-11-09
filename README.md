@@ -40,7 +40,7 @@
 
 ###
 
-<img src="https://github.com/guuhferiani/guuhferiani/blob/main/snake-dark.svg">
+<img src="https://github.com/danielps98/danielps98/blob/main/snake.svg">
 
 ###
 
