@@ -1,7 +1,10 @@
 
-<h2 align="left ">Eai  blz👋! Sou o Daniel  silva.....</h2>
+<h1 align="center">🚀 Olá, seja bem-vindo ao meu perfil!</h1>
 
-###
+<p align="center">
+  Me chamo <strong>Daniel Silva</strong>, desenvolvedor em formação e apaixonado por tecnologia. 💻<br>
+  Explorando o universo do desenvolvimento Full Stack e sempre buscando novos desafios. 🌎✨
+</p>
 <br>
 <h2 align="left">💻 Ferramentas e Tecnologias</h2>
 <br>
