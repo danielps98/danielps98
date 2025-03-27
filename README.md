@@ -7,27 +7,30 @@
 <br>
 
 
-<div align="center ">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="html5 logo"  />
-  <img width="35" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="css3 logo"  />
-  <img width="35" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="javascript logo"  />
-  <img width="35" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="bootstrap logo"  />
-  <img width="35" />
-  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="github logo"  />
+<div align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=for-the-badge" height="35" alt="HTML5" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white&style=for-the-badge" height="35" alt="CSS3" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=for-the-badge" height="35" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=for-the-badge" height="35" alt="Bootstrap" />
+  <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=for-the-badge" height="35" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white&style=for-the-badge" height="35" alt="Git" />
+  <img src="https://img.shields.io/badge/C%23-239120?logo=csharp&logoColor=white&style=for-the-badge" height="35" alt="C#" />
+  <img src="https://img.shields.io/badge/ASP.NET-512BD4?logo=dotnet&logoColor=white&style=for-the-badge" height="35" alt="ASP.NET" />
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white&style=for-the-badge" height="35" alt="Java" />
+  <img src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge" height="35" alt="Angular" />
 </div>
 
 ###
 
-<h2 align="left">💻 :Sobre Mim</h2>
+## 🏆 Sobre Mim
 
-###
+🎓 Estudante de <strong>Análise e Desenvolvimento de Sistemas</strong> na Faculdade Impacta, com experiência prática em **HTML, CSS, JavaScript, Bootstrap**.  
 
-<h3 align="left">Cursando desenvolvimento web, com conhecimentos em HTML, CSS, JavaScript e Bootstrap. Busco uma oportunidade como desenvolvedor júnior para aplicar minhas habilidades e contribuir para projetos dinâmicos.</h3>
+📚 Atualmente estudando **  C#, ASP.NET MVC,e Git,node.js e Java** para expandir minhas habilidades e desenvolver aplicações robustas.  
 
-###
+🚀 Busco oportunidades como **desenvolvedor júnior**, onde eu possa aplicar meus conhecimentos e contribuir para projetos inovadores.  
+
+💡 Apaixonado por aprendizado contínuo e por criar soluções que fazem a diferença!
 
 <h2 align="left">🎓 Github Stats</h2>
 
